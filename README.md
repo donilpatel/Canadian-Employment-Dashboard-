@@ -27,7 +27,7 @@ The dashboard addresses four major questions related to employment trends in Can
 ├── README.md                  # Project documentation
 ```
 
-## ▶️ Demo
+## Demo
 
  [Quick Video Overciew](media/video.mp4)
 
