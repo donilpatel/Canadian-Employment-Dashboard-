@@ -2,7 +2,7 @@
 
 This project is part of the CP321 – Data Visualization course at Wilfrid Laurier University. It visualizes Canadian employment data through a multi-question interactive dashboard built using Plotly Dash.
 
-## 🔍 Overview
+## Overview
 
 The dashboard addresses four major questions related to employment trends in Canada using 2023 Census data:
 1. Distribution of essential service workers
@@ -10,14 +10,14 @@ The dashboard addresses four major questions related to employment trends in Can
 3. Engineering workforce capacity for EV manufacturing
 4. Additional insights into sectoral employment
 
-## 🛠️ Features
+## Features
 
 - Interactive graphs (bar charts, pie charts, choropleth maps)
 - Filters and sliders for real-time data exploration
 - Clean and user-friendly layout
 - Video walkthrough available
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/                      # CSV files for each question
@@ -29,19 +29,16 @@ The dashboard addresses four major questions related to employment trends in Can
 
 ## ▶️ Demo
 
-![Dashboard Screenshot](media/dashboard_screenshot_1.png)
+ [Quick Video Overciew](media/video.mp4)
 
-🎥 [Video Walkthrough](media/video.mp4)
-
-## 🧠 Technologies
+## Technologies
 
 - Python
 - Plotly Dash
 - Pandas
 - Jupyter Notebook
 
-## 👨‍💻 Author
+## Author
 
 Donil Patel  
-Honours BSc Computer Science – Wilfrid Laurier University  
 Course: CP321 – Data Visualization
