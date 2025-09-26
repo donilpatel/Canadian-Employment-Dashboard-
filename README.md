@@ -1,5 +1,5 @@
 # Canadian Employment Dashboard
-
+View the Live Demo: https://canadian-employment-dashboard.onrender.com
 This project is part of the CP321 – Data Visualization course at Wilfrid Laurier University. It visualizes Canadian employment data through a multi-question interactive dashboard built using Plotly Dash.
 
 ## Overview
